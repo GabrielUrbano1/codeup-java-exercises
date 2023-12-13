@@ -40,12 +40,12 @@ public class ConsoleExercises {
         double perimeter = 2 * (inputInt1+inputInt2);
         System.out.println("height: ");
         double height = scanner4.nextInt();
-        double volumn = area * height;
+        double volume = area * height;
 
 
         System.out.printf("The perimeter is: %s%n", perimeter);
         System.out.printf("The Area is: %s %n", area);
-        System.out.printf("and the volumn is: %s %n", volumn);
+        System.out.printf("and the volume is: %s %n", volume);
 
 
 
